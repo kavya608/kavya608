@@ -7,3 +7,28 @@ I'm a software developer with experience building modern web applications using 
 I enjoy solving real-world problems by creating responsive user interfaces, REST APIs, and data-driven applications. My work focuses on writing clean, maintainable code and delivering practical solutions.
 
 I'm currently expanding my skills in full-stack development, data structures & algorithms, and system design while actively seeking software development and freelance opportunities.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### Backend
+- Python
+- Flask
+- REST APIs
+
+### Database
+- SQL
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
