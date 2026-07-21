@@ -23,6 +23,41 @@ I'm currently expanding my skills in full-stack development, data structures & a
 - Flask
 - REST APIs
 
+  ---
+
+# 🚀 Featured Projects
+
+## 📧 AI Email Intelligence Platform
+
+An AI-powered email management application that automatically classifies emails, extracts named entities, generates summaries, prioritizes messages, and provides actionable insights through an analytics dashboard.
+
+**Key Features**
+- Email categorization
+- Priority scoring
+- AI-generated summaries
+- Named Entity Recognition (spaCy)
+- REST API backend
+- Interactive dashboard
+
+**Tech Stack**
+React • Python • Flask • SQLite • spaCy • REST APIs
+
+---
+
+## 📊 Job Market Intelligence Pipeline
+
+A complete ETL pipeline that collects job postings, cleans and transforms data, stores it in SQL, and generates insights about hiring trends, skills, salaries, and locations.
+
+**Key Features**
+- Automated data collection
+- Data cleaning and preprocessing
+- SQL database integration
+- Analytical queries
+- Data visualization
+
+**Tech Stack**
+Python • SQL • Pandas • ETL • Data Analysis
+
 ### Database
 - SQL
 - SQLite
