@@ -29,19 +29,28 @@ I'm currently expanding my skills in full-stack development, data structures & a
 
 ## 📧 AI Email Intelligence Platform
 
-An AI-powered email management application that automatically classifies emails, extracts named entities, generates summaries, prioritizes messages, and provides actionable insights through an analytics dashboard.
+A full-stack AI-powered email management platform that helps users organize and process emails efficiently. The application automatically classifies emails, assigns priority scores, generates summaries, extracts key information, detects action items and deadlines, suggests smart replies, and visualizes email insights through an interactive React dashboard.
 
-**Key Features**
+### ✨ Key Features
 - Email categorization
 - Priority scoring
-- AI-generated summaries
-- Named Entity Recognition (spaCy)
-- REST API backend
-- Interactive dashboard
+- AI-generated email summaries
+- Smart reply suggestions
+- Named Entity Recognition (People, Organizations, Dates, Locations, Money)
+- Action item & deadline extraction
+- Spam detection
+- Search, filtering & sorting
+- Interactive analytics dashboard
+- REST API-based architecture
 
-**Tech Stack**
-React • Python • Flask • SQLite • spaCy • REST APIs
+### 🛠 Tech Stack
+**Frontend:** React, JavaScript, CSS, Axios
 
+**Backend:** Python, Flask, Flask-SQLAlchemy, Pydantic
+
+**AI/NLP:** spaCy, scikit-learn, python-dateutil
+
+**Database:** SQLite
 ---
 
 ## 📊 Job Market Intelligence Pipeline
