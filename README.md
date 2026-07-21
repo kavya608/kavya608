@@ -1,14 +1,12 @@
 # Hi there 👋, I'm G. M. Kavya
 
-### Software Developer | Full-Stack Developer | React | Python | Flask | SQL
+### Frontend Software Engineer| Full-Stack Developer | React | Python | Flask | SQL
 
-I'm a software developer with experience building modern web applications using React, Python, Flask, and SQL.
+I'm a software developer passionate about building modern web applications using React, Python, Flask, and SQL.
 
-I enjoy solving real-world problems by creating responsive user interfaces, REST APIs, and data-driven applications. My work focuses on writing clean, maintainable code and delivering practical solutions.
+I enjoy solving real-world problems by creating responsive user interfaces, REST APIs, and AI-powered applications with clean, maintainable code.
 
-I'm passionate about building scalable software using modern web technologies.
-
-Currently, I'm strengthening my expertise in Data Structures & Algorithms, System Design, and cloud technologies while building full-stack applications and AI-powered solutions.
+Currently, I'm strengthening my expertise in Data Structures & Algorithms, System Design, FastAPI, Docker, and cloud technologies while building full-stack software solutions.
 
 ---
 
@@ -59,11 +57,15 @@ A full-stack AI-powered email management platform that helps users organize and 
 
 Designed and developed an end-to-end Job Market Intelligence Pipeline that automates job data collection, cleaning, storage, and analysis to uncover hiring trends, salary insights, and in-demand technical skills.
 
-**Key Features**
-- Automated data collection
-- Data cleaning and preprocessing
+## ✨ Highlights
+
+- Automated job data collection
+- ETL pipeline
+- Data cleaning & preprocessing
 - SQL database integration
-- Analytical queries
+- Analytical SQL queries
+- Hiring trend analysis
+- Salary insights
 - Data visualization
 
 **Tech Stack**
@@ -81,33 +83,35 @@ Python • SQL • Pandas • ETL • Data Analysis
 
 ---
 
+# 🛠 Technical Skills
+
 ### Frontend
-React
-JavaScript
-HTML5
-CSS3
-Axios
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Axios
 
 ### Backend
-Python
-Flask
-REST APIs
+- Python
+- Flask
+- REST APIs
 
 ### Database
-SQL
-SQLite
+- SQL
+- SQLServer
 
 ### AI / NLP
-spaCy
-scikit-learn
+- spaCy
+- scikit-learn
 
 ### Tools
-Git
-GitHub
-Postman
-VS Code
-
-
+- Git
+- GitHub
+- Postman
+- VS Code
+  
+---
 
 # 🌱 Currently Learning
 
@@ -116,8 +120,8 @@ VS Code
 - System Design
 - FastAPI
 - Docker
-- Cloud Fundamentals
-
+- Cloud Fundamentals (AWS)
+  
 ---
 
 ## 🎯 What I Build
