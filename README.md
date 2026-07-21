@@ -6,24 +6,25 @@ I'm a software developer with experience building modern web applications using 
 
 I enjoy solving real-world problems by creating responsive user interfaces, REST APIs, and data-driven applications. My work focuses on writing clean, maintainable code and delivering practical solutions.
 
-I'm currently expanding my skills in full-stack development, data structures & algorithms, and system design while actively seeking software development and freelance opportunities.
+I'm passionate about building scalable software using modern web technologies.
+
+Currently, I'm strengthening my expertise in Data Structures & Algorithms, System Design, and cloud technologies while building full-stack applications and AI-powered solutions.
 
 ---
 
-## 🛠 Tech Stack
+# 💼 Professional Experience
 
-### Frontend
-- React
-- JavaScript (ES6+)
-- HTML5
-- CSS3
+### Software Engineer
 
-### Backend
-- Python
-- Flask
-- REST APIs
+**Accolite Digital**
 
-  ---
+**Apr 2022 – Jul 2023**
+
+Contributed to the development and maintenance of internal web applications using ReactJS, HTML, CSS, and JavaScript.
+
+Collaborated with cross-functional teams to implement new features, resolve production issues, improve UI responsiveness, and deliver reliable software solutions.
+
+---
 
 # 🚀 Featured Projects
 
@@ -31,7 +32,7 @@ I'm currently expanding my skills in full-stack development, data structures & a
 
 A full-stack AI-powered email management platform that helps users organize and process emails efficiently. The application automatically classifies emails, assigns priority scores, generates summaries, extracts key information, detects action items and deadlines, suggests smart replies, and visualizes email insights through an interactive React dashboard.
 
-### ✨ Key Features
+## ✨ Highlights
 - Email categorization
 - Priority scoring
 - AI-generated email summaries
@@ -51,11 +52,12 @@ A full-stack AI-powered email management platform that helps users organize and 
 **AI/NLP:** spaCy, scikit-learn, python-dateutil
 
 **Database:** SQLite
+
 ---
 
 ## 📊 Job Market Intelligence Pipeline
 
-A complete ETL pipeline that collects job postings, cleans and transforms data, stores it in SQL, and generates insights about hiring trends, skills, salaries, and locations.
+Designed and developed an end-to-end Job Market Intelligence Pipeline that automates job data collection, cleaning, storage, and analysis to uncover hiring trends, salary insights, and in-demand technical skills.
 
 **Key Features**
 - Automated data collection
@@ -77,27 +79,42 @@ Python • SQL • Pandas • ETL • Data Analysis
 - VS Code
 - Postman
 
-  ---
-
-# 💼 Professional Experience
-
-### Software Engineer
-
-**Accolite Digital**
-
-**Apr 2022 – Jul 2023**
-
-Worked on frontend development for internal web applications using ReactJS, HTML, CSS and JavaScript. Collaborated with the development team to build responsive user interfaces, improve existing features, fix bugs, and deliver production-ready solutions.
-
 ---
+
+### Frontend
+React
+JavaScript
+HTML5
+CSS3
+Axios
+
+### Backend
+Python
+Flask
+REST APIs
+
+### Database
+SQL
+SQLite
+
+### AI / NLP
+spaCy
+scikit-learn
+
+### Tools
+Git
+GitHub
+Postman
+VS Code
+
+
 
 # 🌱 Currently Learning
 
 - Data Structures & Algorithms
-- Advanced React
 - Advanced SQL
 - System Design
-- Fast API
+- FastAPI
 - Docker
 - Cloud Fundamentals
 
@@ -132,4 +149,4 @@ I'm particularly interested in:
 
 ---
 
-⭐ **Building software that solves real-world problems, one project at a time.**
+💡 Turning ideas into reliable software through continuous learning, thoughtful engineering, and a passion for solving real-world problems.
