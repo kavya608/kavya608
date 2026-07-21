@@ -1,6 +1,6 @@
 # Hi there 👋, I'm G. M. Kavya
 
-### Frontend Software Engineer| Full-Stack Developer | React | Python | Flask | SQL
+### Frontend Software Engineer | Full-Stack Developer | React | Python | Flask | SQL
 
 I'm a software developer passionate about building modern web applications using React, Python, Flask, and SQL.
 
