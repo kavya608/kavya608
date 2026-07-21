@@ -69,7 +69,7 @@ Designed and developed an end-to-end Job Market Intelligence Pipeline that autom
 - Data visualization
 
 **Tech Stack**
-Python • SQL • Pandas • ETL • Data Analysis • SQL Server
+Python • SQL Server • Pandas • ETL • Data Analysis
 ### Database
 - SQL
 - SQLite
