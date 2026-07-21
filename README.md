@@ -2,7 +2,7 @@
 
 ### Frontend Software Engineer | Full-Stack Developer | React | Python | Flask | SQL
 
-I'm a software developer passionate about building modern web applications using React, Python, Flask, and SQL.
+I'm a Frontend software engineer passionate about building modern web applications using React, Python, Flask, and SQL.
 
 I enjoy solving real-world problems by creating responsive user interfaces, REST APIs, and AI-powered applications with clean, maintainable code.
 
