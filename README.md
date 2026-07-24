@@ -2,25 +2,21 @@
 
 ### Software Developer | Full-Stack Developer | React | Python | Flask | SQL
 
-I'm a Software Developer passionate about building modern web applications using React, Python, Flask, and SQL.
+I'm a Software Developer passionate about building scalable web applications using **React, Python, Flask, and SQL**. I enjoy solving real-world problems by developing responsive frontends, robust REST APIs, and AI-powered applications with clean, maintainable code.
 
-I enjoy solving real-world problems by creating responsive user interfaces, REST APIs, and AI-powered applications with clean, maintainable code.
-
-Currently, I'm strengthening my expertise in Data Structures & Algorithms, System Design, FastAPI, Docker, and cloud technologies while building full-stack software solutions.
+Currently expanding my skills in **Data Structures & Algorithms, System Design, FastAPI, Docker, AWS, and AI Engineering**.
 
 ---
 
 # 💼 Professional Experience
 
-### Software Engineer
-
-**Accolite Digital**
+## Software Engineer | Accolite Digital
 
 **Apr 2022 – Jul 2023**
 
-Contributed to the development and maintenance of internal web applications using ReactJS, HTML, CSS, and JavaScript.
-
-Collaborated with cross-functional teams to implement new features, resolve production issues, improve UI responsiveness, and deliver reliable software solutions.
+- Developed and maintained internal web applications using **React, HTML, CSS, and JavaScript**.
+- Collaborated with cross-functional teams to build new features, improve UI responsiveness, and resolve production issues.
+- Participated in debugging, testing, and delivering reliable software solutions.
 
 ---
 
@@ -28,57 +24,52 @@ Collaborated with cross-functional teams to implement new features, resolve prod
 
 ## 📧 AI Email Intelligence Platform
 
-A full-stack AI-powered email management platform that helps users organize and process emails efficiently. The application automatically classifies emails, assigns priority scores, generates summaries, extracts key information, detects action items and deadlines, suggests smart replies, and visualizes email insights through an interactive React dashboard.
+A production-ready **full-stack email intelligence platform** built using **React, Flask, and classical NLP** that transforms raw emails into structured, actionable insights.
 
-## ✨ Highlights
-- Email categorization
+### Key Features
+
+- Email intent classification
 - Priority scoring
-- AI-generated email summaries
-- Smart reply suggestions
+- NLP-based email summarization
 - Named Entity Recognition (People, Organizations, Dates, Locations, Money)
-- Action item & deadline extraction
+- Action item and deadline extraction
 - Spam detection
-- Search, filtering & sorting
+- Context-aware reply suggestions
+- Search, filtering, sorting & pagination
 - Interactive analytics dashboard
-- REST API-based architecture
+- RESTful API architecture
+- Full-stack deployment using **Render** and **Vercel**
 
-### 🛠 Tech Stack
-**Frontend:** React, JavaScript, CSS, Axios
+**Tech Stack**
 
-**Backend:** Python, Flask, Flask-SQLAlchemy, Pydantic
+- **Frontend:** React, Vite, Axios, React Router, CSS
+- **Backend:** Python, Flask, Flask-SQLAlchemy, Pydantic
+- **AI / NLP:** spaCy, Scikit-learn, TF-IDF, python-dateutil
+- **Database:** SQLite
 
-**AI/NLP:** spaCy, scikit-learn, python-dateutil
+🔗 **Repository:** https://github.com/kavya608/ai-email-intelligence-platform
 
-**Database:** SQLite
+🌐 **Live Demo:** https://ai-email-intelligence-platform.vercel.app
 
 ---
 
 ## 📊 Job Market Intelligence Pipeline
 
-Designed and developed an end-to-end Job Market Intelligence Pipeline that automates job data collection, cleaning, storage, and analysis to uncover hiring trends, salary insights, and in-demand technical skills.
+An end-to-end data engineering project that automates job data collection, cleaning, storage, and analysis to identify hiring trends, salary insights, and in-demand technical skills.
 
-## ✨ Highlights
+### Key Features
 
 - Automated job data collection
 - ETL pipeline
 - Data cleaning & preprocessing
 - SQL database integration
-- Analytical SQL queries
 - Hiring trend analysis
 - Salary insights
-- Data visualization
+- Interactive data analysis
 
 **Tech Stack**
-Python • SQL Server • Pandas • ETL • Data Analysis
-### Database
-- SQL
-- SQLite
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Postman
+Python • SQL • Pandas • ETL • Data Analysis
 
 ---
 
@@ -95,49 +86,52 @@ Python • SQL Server • Pandas • ETL • Data Analysis
 - Python
 - Flask
 - REST APIs
+- SQLAlchemy
 
 ### Database
 - SQL
-- SQLServer
+- SQLite
+- SQL Server
 
 ### AI / NLP
 - spaCy
-- scikit-learn
+- Scikit-learn
+- TF-IDF
 - Pydantic
 
 ### Tools
 - Git
 - GitHub
-- Postman
 - VS Code
-  
+- Postman
+- Render
+- Vercel
+
 ---
 
 # 🌱 Currently Learning
 
 - Data Structures & Algorithms
-- Advanced SQL
 - System Design
 - FastAPI
 - Docker
-- Cloud Fundamentals (AWS)
-  
----
-
-## 🎯 What I Build
-
-I enjoy building modern, scalable applications that combine intuitive user experiences with reliable backend systems.
-
-I'm particularly interested in:
-- Full-Stack Web Applications
-- AI-powered Software Solutions
-- REST API Development
-- Data-Driven Applications
-- Automation & Productivity Tools
+- AWS Cloud
+- AI Engineering
 
 ---
 
-## 🤝 Let's Connect
+# 🎯 Areas of Interest
+
+- Full-Stack Development
+- Frontend Engineering
+- Backend API Development
+- AI-powered Applications
+- Data Engineering
+- Automation Tools
+
+---
+
+# 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-G.%20M.%20Kavya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gm-kavya-3127n)
 
@@ -145,4 +139,4 @@ I'm particularly interested in:
 
 ---
 
-💡 Turning ideas into reliable software through continuous learning, thoughtful engineering, and a passion for solving real-world problems.
+⭐ *Building software that combines clean engineering, practical AI, and intuitive user experiences.*
